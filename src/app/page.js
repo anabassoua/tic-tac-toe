@@ -22,6 +22,7 @@ function Board() {
     setSquares(newSquares);
   }
 
+  // w
   const winner = winnerIs(squares);
 
   return (
